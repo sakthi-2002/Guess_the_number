@@ -1,0 +1,59 @@
+body{
+    background-image: url("https://t4.ftcdn.net/jpg/02/14/62/49/240_F_214624906_RTgBecY8t0FdGEyNhLnsEan39wPiHxTZ.jpg");
+    background-size: cover;
+    
+}
+.heading{
+    color: beige;
+    margin-top: 100px;
+    margin-left: 500px;
+    font-size: xx-large;
+}
+#start{
+    margin-left: 670px;
+    width: 150px;
+    height: 30px;
+    background-color: blue;
+    color: azure;
+}
+#te{
+    margin-left: 400px;
+}
+.heading1{
+    margin-left: 600px;
+    color: beige;
+}
+#startBox{
+    margin-left: 600px;
+    height: 30px;
+    width: 300px;
+}
+#start{
+    margin-top: 10px;
+    margin-left: 680px;
+}
+#start:hover{
+    cursor: pointer;
+}
+#liv{
+    margin-top: 70px;
+    margin-left: 670px;
+    color: orangered;
+}
+#liv:hover{
+    cursor: pointer;
+  
+}
+#won{
+    margin-top: 50px;
+    margin-left: 670px;
+}
+#Play{
+    margin-top: 10px;
+    margin-left: 680px;
+    color: orangered;
+}
+#rem{
+    color: chartreuse;
+    margin-left: 500px;
+}
